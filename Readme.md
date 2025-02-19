@@ -49,17 +49,15 @@ I did make one useful discovery while looking at the configuration bits menu: JT
 
 # Photos
 ## Front
-<img alt="Front of board" src="https://github.com/user-attachments/assets/2bc546a7-36b4-4b7b-91c9-4dac8d336c95" width="150">
-
+[!["Front"](assets/thumb-front.jpg)](assets/front.jpg)
 ## Rear
-<img alt="Back of board 1" src="https://github.com/user-attachments/assets/d52a8e0b-1151-41cc-80b6-3523e1b3ced2" width="150">
-<img alt="Back of board 2" src="https://github.com/user-attachments/assets/d941c182-32a3-481e-bb20-4f8694f7f786" width="150">
-<img alt="Back of board 3" src="https://github.com/user-attachments/assets/ff9482a4-17ad-429c-975f-91f83fb0b68a" width="150">
-
+[![rear1](assets/thumb-rear1.jpg)](assets/rear1.jpg)
+[![rear2](assets/thumb-rear2.jpg)](assets/rear2.jpg)
+[![rear3](assets/thumb-rear3.jpg)](assets/rear3.jpg)
 ## Chips
-<img alt="U1" src="https://github.com/user-attachments/assets/afaf1004-f6e3-41b7-80cb-809eb0961274" width="150">
-<img alt="U4 and U2" src="https://github.com/user-attachments/assets/ad326cad-380f-4e18-a1f2-55de05260c20" width="150">
-<img alt="U11" src="https://github.com/user-attachments/assets/3ec6a00e-89ee-4000-add3-16c6c18fbdcd" width="150">
+[![U11](assets/thumb-u11.jpg)](assets/u11.jpg)
+[![U1](assets/thumb-u1.jpg)](assets/u1.jpg)
+[![U4](assets/thumb-u4.jpg)](assets/u4.jpg)
 
 # Other
 * FCC ID: ULE2326-110
